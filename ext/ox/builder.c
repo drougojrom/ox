@@ -12,7 +12,7 @@
 #include "buf.h"
 #include "err.h"
 
-#define MAX_DEPTH	128
+#define MAX_DEPTH	256
 
 typedef struct _element {
     char	*name;
