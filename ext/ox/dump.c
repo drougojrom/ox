@@ -13,7 +13,7 @@
 #include "cache8.h"
 #include "ox.h"
 
-#define USE_B64	1
+#define USE_B64	0
 #define MAX_DEPTH 10000
 
 typedef unsigned long	ulong;
